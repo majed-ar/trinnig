@@ -1,0 +1,2 @@
+# trinnig
+for trinning 
